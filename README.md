@@ -55,7 +55,7 @@
 
 ###
 
-[![Nicoleel336's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aiaraskata&bg_color=00000000&color=17a1cf&title_color=17a1cf&line=9ecbff&hide_border=true&area=true&area_color=f28892&point=f28892)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![iaraskata's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aiaraskata&bg_color=00000000&color=17a1cf&title_color=17a1cf&line=9ecbff&hide_border=true&area=true&area_color=f28892&point=f28892)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
