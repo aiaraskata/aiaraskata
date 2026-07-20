@@ -2,7 +2,7 @@
     <img width=300 src="./assets/main.gif"/>    
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=4500&pause=4000&color=f28892&center=true&repeat=true&width=1000&height=60&lines=Saudações%2C+carinha que mora logo ali!+Eu sou+aiaraskata!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=4500&pause=4000&color=f28892&center=true&repeat=true&width=1000&height=60&lines=Saudações%2C+carinha+que+mora+logo+ali!+Eu+sou+aiaraskata!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
