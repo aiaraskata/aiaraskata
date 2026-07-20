@@ -48,7 +48,7 @@
 ## Some statistics
 <div align="center">
   <img src="assets/cinnamoroll icecream.gif" height = 120/> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="130" width="300" src="https://github-readme-stats-seven-mu-11.vercel.app/api?username=aiaraskata&show_icons=true&hide_border=true&bg_color=00000000&title_color=f28892&icon_color=9ecbff&text_color=ffffff"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="130" width="300" src="https://github-readme-stats-seven-mu-11.vercel.app/api?username=aiaraskata&hide=stars&show_icons=true?count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=f28892&icon_color=9ecbff&text_color=ffffff"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="130" width="300" src="https://github-readme-stats-seven-mu-11.vercel.app/api/top-langs/?username=aiaraskata&layout=compact&hide_border=true&bg_color=00000000&title_color=f28892&text_color=ffffff"/></a>
   <img src="assets/cinnamoroll happy.gif" height = 120/> 
 </div>
